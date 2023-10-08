@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Dinh Trac Duc Anh
 - 👀 I’m interested in computer science
-- 🌱 I’m currently learning ...
+- 🌱 I’m currently studying computer science at Ho Chi Minh university of Technology
 - 💞️ I’m looking to collaborate on a team project to improve my cs skill
 - 📫 How to reach me:
      Phone: 0862970249
